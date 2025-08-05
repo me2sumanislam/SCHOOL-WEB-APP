@@ -3,9 +3,14 @@
     background-color: aquamarine;
  }
 
-
+/* 
  *{
    padding: 0px;
    margin: 0px;
    font-family: 'Courier New', Courier, monospace;
+ } */
+
+ ul{
+   list-style:none;
+   background-color: #224aa0;
  }
